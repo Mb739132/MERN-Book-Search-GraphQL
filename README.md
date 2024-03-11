@@ -1,5 +1,5 @@
-# Book Search Engine Starter Code
 # MERN Challenge: Book Search Engine
+
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
