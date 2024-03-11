@@ -79,8 +79,32 @@ npm test
 
 ## Technologies Used
 
-- Node
-- JAVASCRIPT
+
+The technologies used in this project are:
+
+MERN Stack:
+
+* MongoDB: A NoSQL database used for storing book data and user information.
+* Express.js: A web application framework for Node.js used for building the server-side logic and APIs.
+* React: A JavaScript library used for building the user interface of the search engine frontend.
+* Node.js: A JavaScript runtime environment used for executing server-side code.
+
+GraphQL:
+
+* Apollo Server: A GraphQL server implementation used for handling GraphQL queries and mutations.
+
+Apollo Client:
+
+* Apollo Client: A state management library for JavaScript used for querying the GraphQL server from the React frontend.
+
+Other:
+
+* Google Books API: An external API used for searching and fetching book data.
+* JWT-Decode: A library used for decoding JSON Web Tokens (JWT) for user authentication.
+
+Deployment:
+
+* Render: A cloud platform used for deploying the application.
 
 ## Contributers
 
