@@ -3,7 +3,7 @@
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
-
+The "MERN Challenge: Book Search Engine" project involves refactoring a fully functioning search engine powered by the Google Books API. Originally built with a RESTful API, the challenge is to transform it into a GraphQL API using Apollo Server. The project utilizes the MERN stack, comprising MongoDB, Express.js, React, and Node.js, with additional integration of Apollo Client for frontend-server communication. Users can search for books, save their searches, and interact with the application, with the goal of enhancing performance and meeting evolving user demands. Additionally, the project includes tasks such as modifying authentication middleware for GraphQL, creating an Apollo Provider for server communication, and deploying the application to Render.
 
 
 ## User Story
@@ -62,12 +62,26 @@ npm install
 ```
 
 ## Usage
+* Search for Books: Utilize the search functionality to look for books using keywords, titles, authors, or any other relevant criteria. Input your query into the search bar and press enter or click the search button to initiate the search.
 
+* View Search Results:Browse through the search results displayed on the page. Each search result card typically includes information such as the book title, author(s), publication year, and a brief description.
+
+* Save Book Searches:Register or log in to your account to access additional features such as saving book searches. Once logged in, use the option provided to save your favorite book searches for future reference.
+
+* Interact with Saved Searches:Retrieve your saved searches from your user profile/dashboard. View, edit, or delete saved searches as desired to manage your saved content effectively.
+
+* GraphQL API Interaction:Developers can explore the GraphQL API endpoints to fetch and modify data programmatically. Utilize GraphQL queries and mutations to interact with the backend server, allowing for efficient data retrieval and manipulation.
+
+* Authentication and Authorization:Ensure proper authentication by logging in with valid credentials. Access restricted features such as saving searches only after authentication to enhance user experience and security.
+
+* Deployment:Access the deployed application on the Render platform to experience the full functionality of the Book Search Engine. Visit the deployed URL to explore the application in a real-world environment.
+
+* Feedback and Support:Provide feedback on the application's usability, performance, and features to contribute to its improvement. Contact the project maintainers or community for support, bug reports, or feature requests.
 
 
 ## Contributing
 
-
+Contribute to the "MERN Challenge: Book Search Engine" project by reporting issues, suggesting features, or submitting code improvements via pull requests. Help enhance the application's functionality and user experience while adhering to project standards and respecting the contributions of others.
 
 ## Test
 
